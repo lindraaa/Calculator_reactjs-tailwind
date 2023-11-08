@@ -1,1 +1,1 @@
-CALCULATOR USING REACTJS AND TAILWIND
+Calculator using reactjs and tailwind 
